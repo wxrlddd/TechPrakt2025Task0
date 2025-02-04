@@ -26,5 +26,6 @@
 - [x] git push
 - [x] git pull
 - [ ] git branch
+
 Виконав: **Антонов Любомир**
 
